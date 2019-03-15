@@ -13,6 +13,6 @@ steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
 - script: >
-      curl --user 'ramyanairsr@gmail.com:Ramyajiv3$' -n --ssl-reqd --mail-from 'ramyanairsr@gmail.com' --mail-rcpt 'Ramya.Rajitha@ust-global.com' 
+      curl --user 'Ramya.Rajitha@ust-global.com:Reset@111' -n --ssl-reqd --mail-from 'Ramya.Rajitha@ust-global.com' --mail-rcpt 'Ramya.Rajitha@ust-global.com' 
       --url 'smtps://smtp.gmail.com:465' -T mail.txt
 
