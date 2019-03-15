@@ -12,7 +12,7 @@ pool:
 steps:
 - script: echo Hello, world!
   displayName: 'Run a one-line script'
-- script: curl -u "email:password" -n --ssl-reqd --mail-from "<ramyanairsr@gmail.com>" 	--mail-rcpt "<Ramya.Rajitha@ust-global.com>" 
+- script: curl -u "email:Ramyajiv3$" -n --ssl-reqd --mail-from "<ramyanairsr@gmail.com>" 	--mail-rcpt "<Ramya.Rajitha@ust-global.com>" 
   --url smtps://smtp.gmail.com:465 -T mail.txt
 
 - script: |
