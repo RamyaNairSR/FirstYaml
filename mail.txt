@@ -1,0 +1,4 @@
+HI
+Iam the body of the message < testing the mail using yaml >
+Regards
+Ramya
